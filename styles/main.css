@@ -39,6 +39,11 @@ header img {
 }
 main {
     clear: left;
+    margin: 1.5em 2em 1.5em;
+    border: 5px dashed blue;
+    border-radius: 20px;
+    box-shadow: 3px 3px 4px 4px;
+    padding: .5em;
 }
 main h3 {
     margin: 3em 2em 1.5em;
@@ -46,7 +51,7 @@ main h3 {
     border: 5px double blue;
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
-    padding: .5em;
+    padding: 1em;
 }
 #list {
     line-height: 1.5em;
