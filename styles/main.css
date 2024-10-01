@@ -39,7 +39,7 @@ header img {
 }
 main {
     clear: left;
-    
+}    
 main h3 {
     margin: 3em 2em 1.5em;
     font-size: 105%;
@@ -56,10 +56,10 @@ main h3 {
     box-shadow: 3px 3px 4px 4px red;
     padding: .5em;
 }
-}
 footer p.copyright {
     text-align: center;
     font-size: 80%;
 }
-
+main p.contact {
     
+}
