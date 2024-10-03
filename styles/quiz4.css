@@ -1,11 +1,11 @@
 html{ 
-    background-image: linear-gradient(to bottom, white 0%, darksalmon 100%);
+    background-image: linear-gradient(to left, white 0%, darksalmon 100%);
 }
 
 body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1000%;
-    width: 1000px;
+    width: 90%;
     background-color: white;
     margin: 15px auto;
     padding: 15px 1.5em;
@@ -68,7 +68,6 @@ footer {
     clear: both;
     border-top: 2px solid maroon;
 }
-footer p.copyright {
-    text-align: center;
-    font-size: 80%;
+body p.fixed {
+    width: auto;
 }
