@@ -16,6 +16,7 @@ body {
     background-position: right;
     background-repeat: repeat-y;
     background-attachment: fixed;
+   
 }
 a:focus, a:hover{
     font-style: italic;
@@ -33,6 +34,7 @@ header h2 {
 }
 header img {
     float: left;
+    margin-left: 2em;
 }
 .shadow {
     text-shadow: 2px 2px 2px rgb(128,0,0);
