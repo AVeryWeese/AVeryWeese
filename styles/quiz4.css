@@ -71,4 +71,5 @@ footer {
 }
 body p.fixed {
     width: auto;
+    float: center;
 }
