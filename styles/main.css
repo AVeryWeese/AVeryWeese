@@ -43,7 +43,10 @@ main {
     clear: left;
 }    
 main h3 {
-    margin: 3em 2em 1.5em;
+    margin-top: 3em;
+    margin-right: 2em;
+    margin-bottom: 1.5em;
+    margin-left: 2em;
     font-size: 105%;
     border: 5px double blue;
     border-radius: 20px;
@@ -52,7 +55,10 @@ main h3 {
 }
 #list {
     line-height: 1.5em;
-    margin: 1.5em 2em 1.5em;
+    margin-top: 1.5em;
+    Margin-right: 2em;
+    Margin-bottom: 1.5em;
+    margin-left: 2em;
     border: 5px dashed blue;
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
@@ -63,7 +69,10 @@ footer p.copyright {
     font-size: 80%;
 }
 main div.contact { 
-    margin: 1.5em 2em 0em 2em;
+    margin-top: 1.5em;
+    margin-right: 2em;
+    margin-bottom: 0em;
+    margin-left: 2em;
     border: 5px dotted blue;
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
