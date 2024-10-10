@@ -47,7 +47,7 @@ article {
 article h3 {
     column-span: all;
 }
-article image {
+article img {
     float: left;
     margin-right: 1em;
     margin-bottom: 1em;
