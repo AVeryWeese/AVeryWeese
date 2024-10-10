@@ -70,9 +70,8 @@ footer {
     border-top: 2px solid maroon;
 }
 body p.fixed {
-    width: auto;
-    float: center;
     width: 350px;
+    float: center;
     padding: 20px;
     background-color: #ffebc6;
     position: fixed;
