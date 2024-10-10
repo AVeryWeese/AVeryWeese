@@ -77,4 +77,6 @@ body p.fixed {
     position: fixed;
     right: 25px;
     bottom: 125px;
+    border: 3px black;
+    border-style: solid;
 }
