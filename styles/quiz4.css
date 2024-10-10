@@ -70,11 +70,11 @@ footer {
     border-top: 2px solid maroon;
 }
 body p.fixed {
-    width: 350px;
+    width: 300px;
     float: center;
     padding: 20px;
     background-color: #ffebc6;
     position: fixed;
     right: 0;
-    top: 170px;
+    bottom: 100px;
 }
