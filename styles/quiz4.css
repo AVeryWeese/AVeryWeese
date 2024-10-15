@@ -47,7 +47,6 @@ article {
 }
 article h3 {
     column-span: all;
-    
 
 }
 article img {
@@ -71,11 +70,11 @@ aside {
 footer {
     clear: both;
     border-top: 2px solid maroon;
-    float: center;
+    text-align: center;
 }
 body p.fixed {
     width: auto;
-    float: center;
+    text-align: center;
     padding: 20px;
     background-color: darksalmon;
     position: fixed;
