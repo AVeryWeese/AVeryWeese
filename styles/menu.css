@@ -22,7 +22,7 @@ border-right: 2px solid white;
 #nav_menu ul li a.current { 
     color: yellow;
  }
-article {
+body {
     clear: left;
 }
  aside ol{
