@@ -23,7 +23,7 @@ border-right: 2px solid white;
     color: yellow;
  }
 body {
-    clear: left;
+    clear: both;
 }
  aside ol{
     list-style-type: upper-roman;
