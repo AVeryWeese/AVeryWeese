@@ -47,3 +47,8 @@ aside {
     float: right;
     list-style-type: fixed;
 }
+rticle p::first-letter {
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+}
