@@ -51,6 +51,9 @@ article {
     margin-left: 2em;
     border-top: 2px solid blue;
 }
+article h3 {
+    column-span: all;
+}
 aside {
     width: 20%;
     float: right;
