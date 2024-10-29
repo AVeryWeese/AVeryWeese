@@ -1,7 +1,7 @@
 body {
     width: 95%;
     margin: 15px auto;
-    background-image: url("../images/goofy.jpg")
+    background-image: url("../images/goofy.jpg");
     background-position: right;
     background-repeat: repeat-y;
     background-attachment: fixed;
