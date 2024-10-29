@@ -23,7 +23,7 @@ border-right: 2px solid white;
 }
 body {
     width: 95%;
-    margin: auto;
+    margin: 15px auto;
     background-image: url("../images/goofy.jpg");
     background-position: right;
     background-repeat: repeat-y;
