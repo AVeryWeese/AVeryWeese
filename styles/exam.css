@@ -47,6 +47,8 @@ aside {
     float: right;
     list-style-type: fixed;
     background-color: darksalmon;
+    border: 1px solid black;
+    padding: 3em;
 }
 article p::first-letter {
     font-size: 3em;
