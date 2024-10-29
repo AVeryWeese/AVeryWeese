@@ -26,7 +26,8 @@ border-right: 2px solid white;
 body {
     width: 95%;
     margin: 15px auto;
-    background-image: url("../images/th.jpg");
+    clear: both;
+    background-image: url("images/th.jpg");
     background-position: right;
     background-repeat: repeat-y;
     background-attachment: fixed;
