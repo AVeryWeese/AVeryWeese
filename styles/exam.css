@@ -28,6 +28,14 @@ body {
     margin: 15px auto;
     clear: both;
     background-color: white;
+    padding: 15px 1.5em;
+    border: 1px solid black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
+    background-image: url("../images/th.jpg");
+    background-position: right;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
 }
 article {
     clear: left;
