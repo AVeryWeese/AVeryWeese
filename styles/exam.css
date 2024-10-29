@@ -27,7 +27,7 @@ body {
     background-image: url("../images/goofy.jpg");
     background-position: right;
     background-repeat: repeat-y;
-    background-attachment: static;
+    background-attachment: fixed;
 }
 article {
     width: 75%;
