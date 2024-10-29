@@ -8,8 +8,7 @@
 text-align: center;
 display: block;
 width: 175px;
-padding: 1em 0; /* padding above and below a
-elements */
+padding: 1em 0; 
 text-decoration: none;
 background-color: blue;
 color: white;
@@ -28,7 +27,7 @@ body {
     background-image: url("../images/goofy.jpg");
     background-position: right;
     background-repeat: repeat-y;
-    background-attachment: fixed;
+    background-attachment: static;
 }
 article {
     width: 75%;
