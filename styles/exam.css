@@ -23,9 +23,6 @@ border-right: 2px solid white;
 #nav_menu ul li a.current { 
    color: yellow;
 }
-header {
-    clear: both;
-}
 body {
     width: 95%;
     margin: 15px auto;
@@ -49,6 +46,9 @@ article {
     column-gap:2em;
     margin-left: 2em;
     border-top: 2px solid blue;
+}
+article h1 {
+    clear: both;
 }
 article h3 {
     column-span: all;
