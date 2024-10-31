@@ -60,7 +60,7 @@ article h3 {
 aside {
     width: 20%;
     float: right;
-    list-style-type: fixed;
+    position: fixed;
     background-color: rgb(64, 206, 241);
     border: 1px solid black;
     padding: 3em;
