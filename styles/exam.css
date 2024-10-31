@@ -61,6 +61,7 @@ aside {
     width: 20%;
     float: right;
     position: fixed;
+    list-style-position: right;
     background-color: rgb(64, 206, 241);
     border: 1px solid black;
     padding: 3em;
