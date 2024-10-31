@@ -70,10 +70,10 @@ article h3 {
 aside {
     width: 20%;
     float: right;
-    position: right;
+    position: fixed;
     background-color: rgb(64, 206, 241);
     border: 1px solid black;
-    padding: 3em;
+    padding: 5em 0 3px 10px;
 }
 article p::first-letter {
     font-size: 2em;
