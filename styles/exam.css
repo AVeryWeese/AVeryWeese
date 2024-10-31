@@ -23,6 +23,9 @@ border-right: 2px solid white;
 #nav_menu ul li a.current { 
    color: yellow;
 }
+header {
+    clear: both;
+}
 body {
     width: 95%;
     margin: 15px auto;
