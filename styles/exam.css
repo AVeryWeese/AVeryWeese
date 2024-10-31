@@ -29,11 +29,6 @@ a:focus, a:hover{
 #nav_menu ul li a.current { 
    color: yellow;
 }
-header {
-    margin-top: 0;
-    margin-left: 1em;
-    padding-top: 0;
-}
 body {
     width: 95%;
     margin: 15px auto;
@@ -57,7 +52,7 @@ article {
     border-top: 2px solid blue;
 }
 article img {
-    float: left;
+    float: right;
     margin-right: 1em;
     margin-bottom: 1em;
 }
