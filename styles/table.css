@@ -6,5 +6,16 @@ table.first th, table.first td {
     border: 2px solid blue;
 }
 table.first tr:nth-child(odd) {
-
+    background-color: lightblue;
+}
+table.second {
+    border-collapse: separate;
+    border: 2px solid slateblue;
+    caption-side: bottom;
+}
+table.second th {
+    background-color: palegoldenrod;
+}
+table.second th, table.second td {
+    border: 2px solid purple;
 }
