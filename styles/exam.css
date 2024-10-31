@@ -1,5 +1,5 @@
 html{ 
-    background-image: linear-gradient(to left, white 0%, rgb(64, 206, 241) 100%);
+    background-image: linear-gradient(to left, white 0%, darksalmon 100%);
 }#nav_menu ul {
     list-style-type: none; 
 }
@@ -61,7 +61,7 @@ aside {
     width: 20%;
     float: right;
     list-style-type: fixed;
-    background-color: darksalmon;
+    background-color: rgb(64, 206, 241);
     border: 1px solid black;
     padding: 3em;
 }
