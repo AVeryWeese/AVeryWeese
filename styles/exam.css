@@ -1,5 +1,5 @@
 html{ 
-    background-image: linear-gradient(to left, white 0%, darksalmon 100%);
+    background-image: linear-gradient(to left, white 0%, rgb(64, 206, 241) 100%);
 }#nav_menu ul {
     list-style-type: none; 
 }
