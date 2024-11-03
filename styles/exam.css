@@ -74,6 +74,7 @@ aside {
     padding: 2em;
     position: fixed;
     right: 0;
+    bottom: 200px;
 }
 article p::first-letter {
     font-size: 2em;
