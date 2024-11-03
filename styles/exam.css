@@ -80,11 +80,14 @@ article p::first-letter {
     font-weight: bold;
     font-style: italic;
 }
-aside ul {
+ol.upper-roman {
     list-style-type: upper-roman;
 }
-aside ol{
-    list-style-type: lower-alpha;
+ul.circle {
+    list-style-type: circle;
+}
+ol.lower-alpha{
+     list-style-type: lower-alpha;
 }
 footer {
     clear: both;
