@@ -44,6 +44,7 @@ body {
     background-attachment: fixed;
 }
 article {
+    clear: left;
     width: 75%;
     float: left;
     column-count: 3;
