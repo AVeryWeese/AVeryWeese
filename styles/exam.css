@@ -67,7 +67,6 @@ article h3 {
 aside {
     width: 20%;
     float: right;
-    position: fixed;
     background-color: rgb(49, 155, 182);
     border: 1px solid black;
     padding: 2em;
