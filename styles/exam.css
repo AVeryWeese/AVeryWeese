@@ -62,8 +62,6 @@ article img {
 }
 article h1 {
     clear: both;
-}
-article h3 {
     column-span: all;
 }
 aside {
@@ -87,7 +85,7 @@ ol.upper-roman {
 ul.circle {
     list-style-type: circle;
 }
-ol.lower-alpha{
+ol.alpha-lowercase{
      list-style-type: lower-alpha;
 }
 footer {
