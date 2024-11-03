@@ -56,7 +56,7 @@ article {
     border-top: 2px solid darkgoldenrod;
 }
 article img {
-    float: right;
+    float: left;
     margin-right: 1em;
     margin-bottom: 1em;
 }
