@@ -48,10 +48,10 @@ article {
     width: 75%;
     float: left;
     column-count: 3;
-    column-rule: 2px dotted blue;
+    column-rule: 2px dotted rgb(85, 64, 224);
     column-gap:2em;
     margin-left: 2em;
-    border-top: 2px solid blue;
+    border-top: 2px solid rgb(85, 64, 224);
 }
 article img {
     float: right;
@@ -67,7 +67,7 @@ article h3 {
 aside {
     width: 20%;
     float: right;
-    background-color: rgb(49, 155, 182);
+    background-color: rgb(85, 64, 224);
     border: 1px solid black;
     padding: 2em;
 }
