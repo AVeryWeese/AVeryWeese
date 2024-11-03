@@ -13,7 +13,7 @@ display: block;
 width: 175px;
 padding: 1em 0; 
 text-decoration: none;
-background-color: blue;
+background-color: darkslateblue;
 color: white;
 font-weight: bold;
 border-right: 2px solid white;
@@ -31,6 +31,8 @@ a:focus, a:hover{
    color: yellow;
 }
 body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
     width: 95%;
     margin: 15px auto;
     background-color: white;
@@ -48,10 +50,10 @@ article {
     width: 75%;
     float: left;
     column-count: 3;
-    column-rule: 2px dotted rgb(85, 64, 224);
+    column-rule: 2px dotted darkgoldenrod;
     column-gap:2em;
     margin-left: 2em;
-    border-top: 2px solid rgb(85, 64, 224);
+    border-top: 2px solid darkgoldenrod;
 }
 article img {
     float: right;
@@ -67,9 +69,11 @@ article h3 {
 aside {
     width: 20%;
     float: right;
-    background-color: rgb(85, 64, 224);
+    background-color: darkslateblue;
     border: 1px solid black;
     padding: 2em;
+    position: fixed;
+    right: 0;
 }
 article p::first-letter {
     font-size: 2em;
