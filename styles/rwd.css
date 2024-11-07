@@ -148,13 +148,13 @@ footer {
         background-color: #222;
         }
         .menu > li:not(:last-child) {
-        border-bottom: 1px solid #444;
+            border-bottom: 1px solid #444;
         }
-article h2 {
-    font-size: 1.1em;
-}
-article p {
-    font-size: .8em;
+        article h2 {
+            font-size: 1.1em;
+        }
+        article p {
+            font-size: .8em;
         }
         footer {
             border-top: 1px solid #f46b45;
