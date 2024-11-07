@@ -23,5 +23,5 @@ table.second th, table.second td {
     border: 2px solid purple;
 }
 table.third {
-    border: horizontal;
+    border-collapse: collapse;
 }
