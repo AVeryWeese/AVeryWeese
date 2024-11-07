@@ -24,4 +24,16 @@ table.second th, table.second td {
 }
 table.third {
     border-collapse: collapse;
+    vertical-align: top;
 }
+
+
+@media only screen and (max-width: 425px) {
+    th, td {
+    display: block;
+    }
+    thead, td.number {
+    display: none;
+    padding: 0;
+    }
+    }
