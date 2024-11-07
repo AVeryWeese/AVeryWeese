@@ -24,6 +24,7 @@ table.second th, table.second td {
 }
 table.third {
     border-collapse: collapse;
+    border: 2px solid seagreen;
     vertical-align: top;
 }
 
