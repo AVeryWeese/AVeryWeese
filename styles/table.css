@@ -37,7 +37,7 @@ table.third {
     border-collapse: collapse;
     border: 2px solid seagreen;
 }
-td.up {
+table.third td.up {
     vertical-align:top;
 }
 @media only screen and (max-width: 425px) {
