@@ -40,6 +40,8 @@ table.third {
 }
 table.third th {
     background-color: seagreen;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
 }
 table.third th, table.third td {
     padding: 0.7em;
