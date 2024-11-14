@@ -38,12 +38,17 @@ table.third {
     border-collapse: collapse;
     border: 2px solid seagreen;
 }
+table.third th {
+    background-color: seagreen;
+}
+table.third th, table.third td {
+    padding: 0.7em;
+    vertical-align: middle;
+}
 table.third td.up {
     vertical-align:top;
 }
-thead tr{
-    background-color:seagreen;
-}
+
 
 
 
