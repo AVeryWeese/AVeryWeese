@@ -41,6 +41,11 @@ table.third {
 table.third td.up {
     vertical-align:top;
 }
+thead tr{
+    background-color:seagreen;
+}
+
+
 
 @media only screen and (max-width: 425px) {
     th, td {
