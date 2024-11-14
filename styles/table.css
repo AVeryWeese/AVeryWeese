@@ -36,7 +36,6 @@ table.second thead tr:first-child{
 
 table.third {
     border-collapse: collapse;
-    border: 2px solid seagreen;
 }
 table.third th {
     background-color: seagreen;
