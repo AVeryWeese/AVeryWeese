@@ -30,13 +30,13 @@ table.second th, table.second td {
     vertical-align: middle;
     border: 2px solid purple;
 }
+table.second thead tr:first-child{
+    border-bottom: 2px solid purple;
+}
 table.third {
     border-collapse: collapse;
     border: 2px solid seagreen;
     vertical-align: top;
-}
-table.second thead tr:first-child{
-    border-bottom: 2px solid purple;
 }
 
 @media only screen and (max-width: 425px) {
