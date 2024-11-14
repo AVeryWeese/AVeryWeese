@@ -39,6 +39,8 @@ table.third {
 }
 table.third caption {
     background-color: mediumaquamarine;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black; 
 }
 table.third th {
     background-color: mediumaquamarine;
@@ -51,7 +53,6 @@ table.third td.up {
     vertical-align:top;
 }
 tr:first-child {
-    border-top: 2px solid black;
     border-bottom: 2px solid black;
 }
 tr:nth-child(2) {
