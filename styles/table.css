@@ -55,9 +55,6 @@ table.third td.up {
 tr:first-child {
     border-bottom: 2px solid black;
 }
-tr:nth-child(2) {
-    border-bottom: 2px solid black;
-}
 tr:last-child {
     border-bottom: 2px solid black;
 }
