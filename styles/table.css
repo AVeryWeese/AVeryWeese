@@ -52,10 +52,10 @@ table.third th, table.third td {
 table.third td.up {
     vertical-align:top;
 }
-tr:first-child {
+ thead tr:first-child {
     border-bottom: 2px solid black;
 }
-tr:last-child {
+ tbody tr:last-child {
     border-bottom: 2px solid black;
 }
 
