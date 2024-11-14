@@ -38,10 +38,10 @@ table.third {
     border-collapse: collapse;
 }
 table.third caption {
-    background-color: seagreen;
+    background-color: mediumaquamarine;
 }
 table.third th {
-    background-color: seagreen;
+    background-color: mediumaquamarine;
 }
 table.third th, table.third td {
     padding: 0.7em;
