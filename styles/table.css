@@ -26,13 +26,14 @@ table.second th {
     background-color: palegoldenrod;
 }
 table.second th, table.second td {
-    padding: 0.7px;
+    padding: 0.7em;
     vertical-align: middle;
     border: 2px solid purple;
 }
 table.second thead tr:first-child{
     border-bottom: 2px solid purple;
 }
+
 table.third {
     border-collapse: collapse;
     border: 2px solid seagreen;
@@ -40,6 +41,7 @@ table.third {
 table.third td.up {
     vertical-align:top;
 }
+
 @media only screen and (max-width: 425px) {
     th, td {
     display: block;
